@@ -1,7 +1,7 @@
 #! /bin/bash
 
 ## Author: Yang Hu / free_learner@163.com / learning-archive.org
-## Modified by Raven due to fsl6.0.6 changes / qiaokn123@163.com / 2023-08-03
+## Modified by Raven  / qiaokn123@163.com / 2023-08-03
 
 ## print script usage
 Usage () {
